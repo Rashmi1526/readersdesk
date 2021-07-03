@@ -9,7 +9,7 @@ body{
     
 }
 .main{
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(harry\ bg.png);
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(../images/harrybg.png);
     background-repeat: no-repeat;
     background-size: cover;
     
